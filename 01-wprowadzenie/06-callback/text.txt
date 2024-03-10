@@ -1,0 +1,1 @@
+Informacje o tym kursie: dla osób, które chcą poznać platformę Node.js, bazę danych MongoDB oraz framework Express
