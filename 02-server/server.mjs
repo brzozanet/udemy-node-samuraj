@@ -7,4 +7,4 @@ const server = http.createServer((request, response) => {
   response.end("<h1>Hello React.js!</h1>");
 });
 
-server.listen(5500, "127.0.0.1", () => console.log("My server started"));
+server.listen(5500, "127.0.0.1", () => console.log("Localhost server started"));
